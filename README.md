@@ -1,6 +1,7 @@
 # 🎵 Zen Music Player (Minimal)
 
-A clean and minimal Flutter app for playing meditation music with relaxing wave animations. Control the volume, set a meditation timer, and enjoy a peaceful session. Designed for a calm user experience with a modern and responsive UI.
+A clean and minimal Flutter app for playing meditation music with relaxing wave animations. 
+Control the volume, set a meditation timer, and enjoy a peaceful session. Designed for a calm user experience with a modern and responsive UI.
 
 ---
 
