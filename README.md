@@ -30,7 +30,7 @@ Control the volume, set a meditation timer, and enjoy a peaceful session. Design
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/zen_music_player.git
+git clone https://github.com/bektas-sari/zen_music_player.git
 cd zen_music_player
 ```
 
