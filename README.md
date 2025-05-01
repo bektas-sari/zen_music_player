@@ -16,12 +16,6 @@ Control the volume, set a meditation timer, and enjoy a peaceful session. Design
 
 ---
 
-## 📷 Screenshots
-
-_Add screenshots here (example: assets/screenshots/zen_music.png)_
-
----
-
 ## 📦 Built With
 
 - Flutter
