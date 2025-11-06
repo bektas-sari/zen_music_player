@@ -54,7 +54,7 @@ You can add more music tracks under `assets/audio/`, modify colors, or enhance w
 
 ---
 
-## 👤 Developer
+## Developer
 
 **Bektaş Sarı**<br>
 PhD in Advertising, AI + Creativity researcher<br>
